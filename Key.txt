@@ -1,0 +1,3 @@
+taikhoan: field text largue requi
+password: field text largue requi
+login button: _ctl18_butLogin

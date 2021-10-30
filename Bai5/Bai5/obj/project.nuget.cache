@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hcWemW9mYBrFI++Bngm8Evw6S/1gT+kB50FonH1y27HqGKGOGhEZ0qPewSfx55RlbW+/Zj/yvoa5zmpLwpUEQ==",
+  "success": true,
+  "projectFilePath": "E:\\Download\\Kiểm thử phần mềm\\Cau5_Login_Selenium\\Login_Selenium\\Bai5\\Bai5\\Bai5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
